@@ -1,0 +1,5 @@
+### Testando o servidor do aluno
+
+### GET http://localhost:8080/
+
+POST http://127.0.0.1:5000/
